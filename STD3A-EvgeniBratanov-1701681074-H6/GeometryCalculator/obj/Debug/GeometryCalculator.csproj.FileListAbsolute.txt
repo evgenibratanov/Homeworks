@@ -1,0 +1,7 @@
+D:\Evgeni\ITTP\STD3A-EvgeniBratanov-1701681074-H6\STD3A-EvgeniBratanov-1701681074-H6\GeometryCalculator\bin\Debug\GeometryCalculator.exe.config
+D:\Evgeni\ITTP\STD3A-EvgeniBratanov-1701681074-H6\STD3A-EvgeniBratanov-1701681074-H6\GeometryCalculator\bin\Debug\GeometryCalculator.exe
+D:\Evgeni\ITTP\STD3A-EvgeniBratanov-1701681074-H6\STD3A-EvgeniBratanov-1701681074-H6\GeometryCalculator\bin\Debug\GeometryCalculator.pdb
+D:\Evgeni\ITTP\STD3A-EvgeniBratanov-1701681074-H6\STD3A-EvgeniBratanov-1701681074-H6\GeometryCalculator\obj\Debug\GeometryCalculator.csprojResolveAssemblyReference.cache
+D:\Evgeni\ITTP\STD3A-EvgeniBratanov-1701681074-H6\STD3A-EvgeniBratanov-1701681074-H6\GeometryCalculator\obj\Debug\GeometryCalculator.csproj.CoreCompileInputs.cache
+D:\Evgeni\ITTP\STD3A-EvgeniBratanov-1701681074-H6\STD3A-EvgeniBratanov-1701681074-H6\GeometryCalculator\obj\Debug\GeometryCalculator.exe
+D:\Evgeni\ITTP\STD3A-EvgeniBratanov-1701681074-H6\STD3A-EvgeniBratanov-1701681074-H6\GeometryCalculator\obj\Debug\GeometryCalculator.pdb

@@ -1,0 +1,7 @@
+D:\Evgeni\ITTP\STD3A-EvgeniBratanov-1701681074-H6\STD3A-EvgeniBratanov-1701681074-H6\GetMax\bin\Debug\GetMax.exe.config
+D:\Evgeni\ITTP\STD3A-EvgeniBratanov-1701681074-H6\STD3A-EvgeniBratanov-1701681074-H6\GetMax\bin\Debug\GetMax.exe
+D:\Evgeni\ITTP\STD3A-EvgeniBratanov-1701681074-H6\STD3A-EvgeniBratanov-1701681074-H6\GetMax\bin\Debug\GetMax.pdb
+D:\Evgeni\ITTP\STD3A-EvgeniBratanov-1701681074-H6\STD3A-EvgeniBratanov-1701681074-H6\GetMax\obj\Debug\GetMax.csprojResolveAssemblyReference.cache
+D:\Evgeni\ITTP\STD3A-EvgeniBratanov-1701681074-H6\STD3A-EvgeniBratanov-1701681074-H6\GetMax\obj\Debug\GetMax.csproj.CoreCompileInputs.cache
+D:\Evgeni\ITTP\STD3A-EvgeniBratanov-1701681074-H6\STD3A-EvgeniBratanov-1701681074-H6\GetMax\obj\Debug\GetMax.exe
+D:\Evgeni\ITTP\STD3A-EvgeniBratanov-1701681074-H6\STD3A-EvgeniBratanov-1701681074-H6\GetMax\obj\Debug\GetMax.pdb
